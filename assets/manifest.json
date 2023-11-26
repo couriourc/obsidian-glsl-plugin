@@ -1,0 +1,11 @@
+{
+	"id": "dev-glsl-plugin",
+	"name": "DEV Glsl Renderer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "a useful glsl render for codeblock in obsidian",
+	"author": "CouriourC",
+	"authorUrl": "https://couriourc.github.io",
+	"fundingUrl": "https://couriourc.github.io",
+	"isDesktopOnly": false
+}
